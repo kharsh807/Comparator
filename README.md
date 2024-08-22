@@ -11,9 +11,7 @@ This project focuses on the design, simulation, and optimization of a low-power 
 - [FPGA Implementation](#fpga-implementation)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 - Design and simulation of 32-bit comparator using multiple adder architectures.
@@ -36,15 +34,10 @@ The project involves:
 ## FPGA Implementation
 A 16-bit version of the comparator was implemented on a Spartan-6 FPGA. The FPGA implementation validated the design through real-time testing and demonstrated the comparator's efficiency and robustness.
 
-## Getting Started
-To get started with the project, clone the repository and ensure you have the necessary EDA tools and FPGA development environment set up.
 
 ### Prerequisites
 - Cadence Incisive and Genus
 - Xilinx ISE Design Suite
 - Spartan-6 FPGA board
 
-### Installation
-Clone this repository:
-```bash
-git clone https://github.com/kharsh807/Low_power_Comparator.git
+
